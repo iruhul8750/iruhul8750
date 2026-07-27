@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,25:1E3A8A,50:2563EB,75:06B6D4,100:22D3EE&text=Ruhul%20Islam&fontColor=ffffff&fontSize=56&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20|%20Automation%20Learner%20|%20Cybersecurity%20Enthusiast&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,25:1E3A8A,50:2563EB,75:06B6D4,100:22D3EE&text=Ruhul%20Islam&fontColor=ffffff&fontSize=56&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20|%20Cybersecurity%20Enthusiast&descAlignY=60"/>
 
 <br>
 
@@ -26,7 +26,7 @@
 
 # 👋 About Me
 
-I'm a **QA Engineer** with **1+ year of professional experience** in software quality assurance.
+I'm a **QA Engineer** with **around 2 years of professional experience** in software quality assurance.
 
 My work focuses on ensuring software quality through structured testing, API validation, SQL verification, defect reporting, and close collaboration with development teams.
 
