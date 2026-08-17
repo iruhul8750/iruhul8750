@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}  # Use PAT instead
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
@@ -27,5 +29,5 @@ jobs:
           folder: dist
           branch: output
           clean: true
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}  # Use PAT instead
           commit-message: "Update snake animation [skip ci]"
