@@ -185,7 +185,7 @@ QA Engineer with **2 years** of professional experience in software quality assu
 
 <div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/iruhul8750/iruhul8750/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](github-contribution-grid-snake-dark.svg)
 
 </div>
 
