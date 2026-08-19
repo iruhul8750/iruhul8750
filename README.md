@@ -56,9 +56,9 @@ QA Engineer with **2 years** of professional experience in software quality assu
 
 ### 💻 Languages & Databases
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
 
 ### 🔐 Security
 
@@ -154,22 +154,15 @@ QA Engineer with **2 years** of professional experience in software quality assu
 </div>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iruhul8750&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=iruhul8750&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iruhul8750&layout=compact&theme=tokyonight&hide_border=true)
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iruhul8750&theme=tokyonight)
+| **🔥 GitHub Streak** |
+|:---:|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iruhul8750&theme=tokyonight&hide_border=true) |
 
 </div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -186,16 +179,6 @@ QA Engineer with **2 years** of professional experience in software quality assu
 <div align="center">
 
 ![Snake Animation](github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 👀 Profile Visitors
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=iruhul8750&style=for-the-badge&color=0e75b6)
 
 </div>
 
@@ -229,7 +212,6 @@ QA Engineer with **2 years** of professional experience in software quality assu
 
 ### 💡 *"Quality is built through consistency, curiosity, and continuous improvement."*
 
----
 
 ### ⭐ If you like my work, consider starring my repositories!
 
